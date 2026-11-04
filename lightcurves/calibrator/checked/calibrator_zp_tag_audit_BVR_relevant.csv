@@ -1,0 +1,204 @@
+SNID,file,raw_filters,script_filter_tag,bvr_relevant,frag_has_key,dove_has_key,status
+2021rhu,2021rhu.snana.dat,g i r z,g,True,True,True,lookup_ok
+2021rhu,2021rhu.snana.dat,g i r z,i,False,False,False,missing_non_bvr_or_ignored
+2021rhu,2021rhu.snana.dat,g i r z,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+2021rhu,2021rhu.snana.dat,g i r z,z,False,False,False,missing_non_bvr_or_ignored
+ASASSN-14lp,CSP_ASASSN-14lp.DAT,CSP-g CSP-i CSP-r CSP-u,CSP-g,True,True,True,lookup_ok
+ASASSN-14lp,CSP_ASASSN-14lp.DAT,CSP-g CSP-i CSP-r CSP-u,CSP-i,False,True,True,lookup_ok
+ASASSN-14lp,CSP_ASASSN-14lp.DAT,CSP-g CSP-i CSP-r CSP-u,CSP-r,True,True,True,lookup_ok
+ASASSN-14lp,CSP_ASASSN-14lp.DAT,CSP-g CSP-i CSP-r CSP-u,CSP-u,False,False,False,missing_non_bvr_or_ignored
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,H,False,False,False,missing_non_bvr_or_ignored
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,J,False,False,False,missing_non_bvr_or_ignored
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,K,False,False,False,missing_non_bvr_or_ignored
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1980N,SN1980N.snana.dat,Bs H Is J K Rs Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,H,False,False,False,missing_non_bvr_or_ignored
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,J,False,False,False,missing_non_bvr_or_ignored
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,K,False,False,False,missing_non_bvr_or_ignored
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,Us,False,False,False,standard_system_no_model_zp_expected
+SN1981B,SN1981B.snana.dat,Bs H J K Us Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1981D,SN1981D.snana.dat,Bs H J K Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1981D,SN1981D.snana.dat,Bs H J K Vs,H,False,False,False,missing_non_bvr_or_ignored
+SN1981D,SN1981D.snana.dat,Bs H J K Vs,J,False,False,False,missing_non_bvr_or_ignored
+SN1981D,SN1981D.snana.dat,Bs H J K Vs,K,False,False,False,missing_non_bvr_or_ignored
+SN1981D,SN1981D.snana.dat,Bs H J K Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,H2m,False,False,False,missing_non_bvr_or_ignored
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,J2m,False,False,False,missing_non_bvr_or_ignored
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Ks2m,False,False,False,missing_non_bvr_or_ignored
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Us,False,False,False,standard_system_no_model_zp_expected
+SN1989B,SN1989B.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,B I R U V,B,True,False,False,standard_system_no_model_zp_expected
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,B I R U V,I,False,False,False,standard_system_no_model_zp_expected
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,B I R U V,R,True,False,False,standard_system_no_model_zp_expected
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,B I R U V,U,False,False,False,standard_system_no_model_zp_expected
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,B I R U V,V,True,False,False,standard_system_no_model_zp_expected
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,B I R U V,B,True,False,False,standard_system_no_model_zp_expected
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,B I R U V,I,False,False,False,standard_system_no_model_zp_expected
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,B I R U V,R,True,False,False,standard_system_no_model_zp_expected
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,B I R U V,U,False,False,False,standard_system_no_model_zp_expected
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,B I R U V,V,True,False,False,standard_system_no_model_zp_expected
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,H2m,False,False,False,missing_non_bvr_or_ignored
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,J2m,False,False,False,missing_non_bvr_or_ignored
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Ks2m,False,False,False,missing_non_bvr_or_ignored
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Us,False,False,False,standard_system_no_model_zp_expected
+SN1994D,SN1994D.snana.dat,Bs H2m Is J2m Ks2m Rs Us Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1994ae,SN1994ae.snana.dat,Bs Is Rs Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1994ae,SN1994ae.snana.dat,Bs Is Rs Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1994ae,SN1994ae.snana.dat,Bs Is Rs Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1994ae,SN1994ae.snana.dat,Bs Is Rs Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1995al,SN1995al.snana.dat,Bs Is Rs Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1995al,SN1995al.snana.dat,Bs Is Rs Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1995al,SN1995al.snana.dat,Bs Is Rs Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1995al,SN1995al.snana.dat,Bs Is Rs Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1998aq,SN1998aq.snana.dat,Bs Is Rs Us Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN1998aq,SN1998aq.snana.dat,Bs Is Rs Us Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN1998aq,SN1998aq.snana.dat,Bs Is Rs Us Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN1998aq,SN1998aq.snana.dat,Bs Is Rs Us Vs,Us,False,False,False,standard_system_no_model_zp_expected
+SN1998aq,SN1998aq.snana.dat,Bs Is Rs Us Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,B4sh,True,True,True,standard_system_no_model_zp_expected
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,H2m,False,False,False,missing_non_bvr_or_ignored
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,I4sh,False,False,True,standard_system_no_model_zp_expected
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,J2m,False,False,False,missing_non_bvr_or_ignored
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,R4sh,True,False,True,standard_system_no_model_zp_expected
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,U4sh,False,False,False,standard_system_no_model_zp_expected
+SN1998bu,SN1998bu.snana.dat,B4sh H2m I4sh J2m R4sh U4sh V4sh,V4sh,True,True,True,standard_system_no_model_zp_expected
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,H,False,False,False,missing_non_bvr_or_ignored
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,J,False,False,False,missing_non_bvr_or_ignored
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,Us,False,False,False,standard_system_no_model_zp_expected
+SN2001el,SN2001el.snana.dat,Bs H Is J Rs Us Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,Bs,True,False,False,standard_system_no_model_zp_expected
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,H_P,False,False,False,missing_non_bvr_or_ignored
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,Is,False,False,False,standard_system_no_model_zp_expected
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,J_P,False,False,False,missing_non_bvr_or_ignored
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,K_P,False,False,False,missing_non_bvr_or_ignored
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,Rs,True,False,False,standard_system_no_model_zp_expected
+SN2002fk,SN2002fk.snana.dat,Bs H_P Is J_P K_P Rs Vs,Vs,True,False,False,standard_system_no_model_zp_expected
+2005df,SN2005df.dat,B I R V,UVOT-B,False,True,True,lookup_ok
+2005df,SN2005df.dat,B I R V,UVOT-I,False,False,False,missing_non_bvr_or_ignored
+2005df,SN2005df.dat,B I R V,UVOT-R,False,False,False,missing_non_bvr_or_ignored
+2005df,SN2005df.dat,B I R V,UVOT-V,False,True,True,lookup_ok
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,B,True,False,False,standard_system_no_model_zp_expected
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,B_AND,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,H_AND,False,False,False,missing_non_bvr_or_ignored
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,I_AND,False,False,False,missing_non_bvr_or_ignored
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,J_AND,False,False,False,missing_non_bvr_or_ignored
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,K_AND,False,False,False,missing_non_bvr_or_ignored
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,R_AND,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,V,True,False,False,standard_system_no_model_zp_expected
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,V_AND,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,g,True,True,True,lookup_ok
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,i,False,False,False,missing_non_bvr_or_ignored
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2006dd,SN2006dd.snana.dat,B B_AND H_AND I_AND J_AND K_AND R_AND V V_AND g i r u,u,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,B,True,False,False,standard_system_no_model_zp_expected
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,H,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,J,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,V,True,False,False,standard_system_no_model_zp_expected
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,Y,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,Ydw,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,g,True,True,True,lookup_ok
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,i,False,False,False,missing_non_bvr_or_ignored
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2007on,SN2007on.snana.dat,B H J V Y Ydw g i r u,u,False,False,False,missing_non_bvr_or_ignored
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,B,True,False,False,standard_system_no_model_zp_expected
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,H,False,False,False,missing_non_bvr_or_ignored
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,J,False,False,False,missing_non_bvr_or_ignored
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,V,True,False,False,standard_system_no_model_zp_expected
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,Y,False,False,False,missing_non_bvr_or_ignored
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,g,True,True,True,lookup_ok
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,i,False,False,False,missing_non_bvr_or_ignored
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2007sr,SN2007sr.snana.dat,B H J V Y g i r u,u,False,False,False,missing_non_bvr_or_ignored
+2011by,SN2011by.snana.dat,E F G H M N O P,KAIT4-E,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,KAIT4-F,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,KAIT4-G,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,KAIT4-H,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,nickel2-M,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,nickel2-N,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,nickel2-O,False,True,True,lookup_ok
+2011by,SN2011by.snana.dat,E F G H M N O P,nickel2-P,False,True,True,lookup_ok
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,Bs,True,False,False,standard_system_no_model_zp_expected
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,Is,False,False,False,standard_system_no_model_zp_expected
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,Rs,True,False,False,standard_system_no_model_zp_expected
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,Vs,True,False,False,standard_system_no_model_zp_expected
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,WHIRCH,False,False,False,missing_non_bvr_or_ignored
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,WHIRCJ,False,False,False,missing_non_bvr_or_ignored
+SN2011fe,SN2011fe.snana.dat,Bs Is Rs Vs WHIRCH WHIRCJ WHIRCK,WHIRCK,False,False,False,missing_non_bvr_or_ignored
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,B,True,False,False,standard_system_no_model_zp_expected
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,H,False,False,False,missing_non_bvr_or_ignored
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,Jrc2,False,False,False,missing_non_bvr_or_ignored
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,V,True,False,False,standard_system_no_model_zp_expected
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,Y,False,False,False,missing_non_bvr_or_ignored
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,g,True,True,True,lookup_ok
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,i,False,False,False,missing_non_bvr_or_ignored
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2011iv,SN2011iv.snana.dat,B H Jrc2 V Y g i r u,u,False,False,False,missing_non_bvr_or_ignored
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,Bk2,True,True,True,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,Bkait,False,False,False,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,H2m,False,False,False,missing_non_bvr_or_ignored
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,J2m,False,False,False,missing_non_bvr_or_ignored
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,Ks2m,False,False,False,missing_non_bvr_or_ignored
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,Vk2,True,True,True,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,Vkait,False,False,False,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,ik2,False,True,True,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,rk2,True,True,True,standard_system_no_model_zp_expected
+SN2012cg,SN2012cg.snana.dat,Bk2 Bkait H2m J2m Ks2m Vk2 Vkait ik2 rk2 uk2,uk2,False,False,False,standard_system_no_model_zp_expected
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-B,True,True,True,lookup_ok
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-H,False,False,False,missing_non_bvr_or_ignored
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-J,False,False,False,missing_non_bvr_or_ignored
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-Jrc2,False,False,False,missing_non_bvr_or_ignored
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-Y,False,False,False,missing_non_bvr_or_ignored
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-g,True,True,True,lookup_ok
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-i,False,True,True,lookup_ok
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-n,True,True,True,lookup_ok
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-r,True,True,True,lookup_ok
+SN2012fr,SN2012fr.snana.dat,B H J Jrc2 V Y g i r u,CSP-u,False,False,False,missing_non_bvr_or_ignored
+2013aa,SN2013aa.snana.dat,CSP-B CSP-i CSP-n CSP-r,CSP-B,True,True,True,lookup_ok
+2013aa,SN2013aa.snana.dat,CSP-B CSP-i CSP-n CSP-r,CSP-i,False,True,True,lookup_ok
+2013aa,SN2013aa.snana.dat,CSP-B CSP-i CSP-n CSP-r,CSP-n,True,True,True,lookup_ok
+2013aa,SN2013aa.snana.dat,CSP-B CSP-i CSP-n CSP-r,CSP-r,True,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,KAIT4-E,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,KAIT4-F,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,KAIT4-G,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,KAIT4-H,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,nickel2-M,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,nickel2-N,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,nickel2-O,False,True,True,lookup_ok
+2013dy,SN2013dy.snana.dat,E F G H M N O P,nickel2-P,False,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-B,True,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-g,True,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-i,False,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-n,True,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-r,True,True,True,lookup_ok
+2017cbv,SN2017cbv.snana.dat,CSP-B CSP-g CSP-i CSP-n CSP-r CSP-u,CSP-u,False,False,False,missing_non_bvr_or_ignored
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,B,True,False,False,standard_system_no_model_zp_expected
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,V,True,False,False,standard_system_no_model_zp_expected
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,g,True,True,True,lookup_ok
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,i,False,False,False,missing_non_bvr_or_ignored
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,r,True,False,False,missing_bvr_relevant_check_tag_or_reference
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,B V g i r u,u,False,False,False,missing_non_bvr_or_ignored
+2021pit,SN2021pit.dat,B U V,UVOT-B,False,True,True,lookup_ok
+2021pit,SN2021pit.dat,B U V,UVOT-U,False,False,False,missing_non_bvr_or_ignored
+2021pit,SN2021pit.dat,B U V,UVOT-V,False,True,True,lookup_ok
+SN2021rhu,SN2021rhu.snana.dat,ztfg ztfi ztfr,ztfg,False,False,False,ztf_ab_no_zp_entry
+SN2021rhu,SN2021rhu.snana.dat,ztfg ztfi ztfr,ztfi,False,False,False,ztf_ab_no_zp_entry
+SN2021rhu,SN2021rhu.snana.dat,ztfg ztfi ztfr,ztfr,False,False,False,ztf_ab_no_zp_entry
+2020nvb,SWIFT_20nvb.DAT,B U V,B,True,False,False,standard_system_no_model_zp_expected
+2020nvb,SWIFT_20nvb.DAT,B U V,U,False,False,False,standard_system_no_model_zp_expected
+2020nvb,SWIFT_20nvb.DAT,B U V,V,True,False,False,standard_system_no_model_zp_expected
+2021J,YSE_2021J.DAT,g i r z,ps1::g,True,True,True,lookup_ok
+2021J,YSE_2021J.DAT,g i r z,ps1::i,False,True,True,lookup_ok
+2021J,YSE_2021J.DAT,g i r z,ps1::r,True,True,True,lookup_ok
+2021J,YSE_2021J.DAT,g i r z,ps1::z,False,True,True,lookup_ok

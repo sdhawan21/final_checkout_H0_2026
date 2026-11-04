@@ -1,0 +1,34 @@
+SURVEY: SWIFT_CHECKED
+SNANA_VERSION: CHECKED_PHOTOMETRY
+SNID: SN2021rhu
+RA: 00:03:15.42
+DECL: +16:08:44.51
+REDSHIFT_HELIO: 0.003506
+FILTERS: w2m2w1uv
+NOBS: 16
+MAGTYPE: LOG10
+MAGREF: 27.5
+# This file was generated in lightcurves/calibrator/checked from published tables.
+# Only Swift/UVOT rows are included; the optical survey gri columns from the same table are intentionally omitted.
+# Swift b-band was saturated and excluded in the paper.
+# Fluxcal values are computed from MAG with MAGREF=27.5; original observables are MAG/MAGERR.
+# REFERENCE: Khetan et al. 2023, MNRAS, SN 2021rhu study; Appendix photometry table; arXiv:2304.10129
+NVAR: 6
+VARLIST: MJD FLT FIELD FLUXCAL FLUXCALERR MAG MAGERR
+OBS:  59410.800 m2   SwiftUVOT      7798.30111   359.12504   17.770   0.050
+OBS:  59410.800 u    SwiftUVOT    263026.79919  7267.69904   13.950   0.030
+OBS:  59410.800 v    SwiftUVOT    1037528.41582 28667.96957   12.460   0.030
+OBS:  59410.800 w1   SwiftUVOT     45708.81896  1262.98134   15.850   0.030
+OBS:  59410.800 w2   SwiftUVOT     12941.95841   476.79937   17.220   0.040
+OBS:  59413.500 m2   SwiftUVOT      6918.30971   254.87995   17.900   0.040
+OBS:  59413.500 u    SwiftUVOT    218776.16239  6045.00876   14.150   0.030
+OBS:  59413.500 v    SwiftUVOT    1056817.50921 29200.94691   12.440   0.030
+OBS:  59413.500 w1   SwiftUVOT     38370.72455  1060.22230   16.040   0.030
+OBS:  59413.500 w2   SwiftUVOT     10864.25624   300.19049   17.410   0.030
+OBS:  59417.900 m2   SwiftUVOT      4613.17575   212.44459   18.340   0.050
+OBS:  59417.900 u    SwiftUVOT    140604.75241  7770.10577   14.630   0.060
+OBS:  59417.900 w1   SwiftUVOT     25351.28630   933.97590   16.490   0.040
+OBS:  59417.900 w2   SwiftUVOT      7177.94291   264.44519   17.860   0.040
+OBS:  59420.100 w2   SwiftUVOT      5248.07460   386.69243   18.200   0.080
+OBS:  59426.100 v    SwiftUVOT    549540.87386 35430.20948   13.150   0.070
+END:

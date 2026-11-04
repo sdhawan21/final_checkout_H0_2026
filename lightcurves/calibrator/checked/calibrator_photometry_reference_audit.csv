@@ -1,0 +1,31 @@
+snid,file,survey,photometry_version,filters,nobs,inferred_reference_or_action,audit_status
+2017erp,2017erp.dat,KAIT,LOSS,ABCDEFGHIJKLMNOP,253,LOSS/KAIT photometry releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+ASASSN-14lp,CSP_ASASSN-14lp.DAT,CSP,,ugriBnmoJjYyH,229,CSP public photometry / CSP data releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+SN1980N,SN1980N.snana.dat,,,"Bs,H,Is,J,K,Rs,Vs",92,No explicit literature reference in SNANA header.,needs_external_verification
+SN1981B,SN1981B.snana.dat,,,"Bs,H,J,K,Us,Vs",148,No explicit literature reference in SNANA header.,needs_external_verification
+SN1981D,SN1981D.snana.dat,,,"Bs,H,J,K,Vs",39,No explicit literature reference in SNANA header.,needs_external_verification
+SN1989B,SN1989B.snana.dat,,,"Bs,H2m,Is,J2m,Ks2m,Rs,Us,Vs",166,No explicit literature reference in SNANA header.,needs_external_verification
+SN1994D,SN1994D.snana.dat,,,"Bs,H2m,Is,J2m,Ks2m,Rs,Us,Vs",311,No explicit literature reference in SNANA header.,needs_external_verification
+SN1994ae,SN1994ae.snana.dat,,,"Bs,Is,Rs,Vs",154,No explicit literature reference in SNANA header.,needs_external_verification
+SN1995al,SN1995al.snana.dat,,,"Bs,Is,Rs,Vs",92,No explicit literature reference in SNANA header.,needs_external_verification
+SN1998aq,SN1998aq.snana.dat,,,"Bs,Is,Rs,Us,Vs",257,No explicit literature reference in SNANA header.,needs_external_verification
+SN1998bu,SN1998bu.snana.dat,,,"B4sh,H2m,I4sh,J2m,R4sh,U4sh,V4sh",156,No explicit literature reference in SNANA header.,needs_external_verification
+SN2001el,SN2001el.snana.dat,,,"Bs,H,Is,J,Rs,Us,Vs",243,No explicit literature reference in SNANA header.,needs_external_verification
+SN2002fk,SN2002fk.snana.dat,,,"Bs,H_P,Is,J_P,K_P,Rs,Vs",196,No explicit literature reference in SNANA header.,needs_external_verification
+2005df,SN2005df.dat,LOWZ,LOWZ-ANU,UBVRI,75,No explicit literature reference in SNANA header.,needs_external_verification
+SN2006dd,SN2006dd.snana.dat,,,"B,B_AND,H_AND,I_AND,J_AND,K_AND,R_AND,V,V_AND,g,i,r,u",304,No explicit literature reference in SNANA header.,needs_external_verification
+SN2007af,SN2007af.snana.dat,,,"B,H,J,K,V,Y,g,i,r,u",318,No explicit literature reference in SNANA header.,needs_external_verification
+SN2007on,SN2007on.snana.dat,,,"B,H,J,V,Y,Ydw,g,i,r,u",308,No explicit literature reference in SNANA header.,needs_external_verification
+SN2007sr,SN2007sr.snana.dat,,,"B,H,J,V,Y,g,i,r,u",223,No explicit literature reference in SNANA header.,needs_external_verification
+2011by,SN2011by.snana.dat,KAIT,LOSS,ABCDEFGHIJKLMNOP,132,LOSS/KAIT photometry releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+SN2011fe,SN2011fe.snana.dat,,,"Bs,Is,Rs,Vs,WHIRCH,WHIRCJ,WHIRCK",296,No explicit literature reference in SNANA header.,needs_external_verification
+SN2011iv,SN2011iv.snana.dat,,,"B,H,Jrc2,V,Y,g,i,r,u",395,No explicit literature reference in SNANA header.,needs_external_verification
+SN2012cg,SN2012cg.snana.dat,,,"Bk2,Bkait,H2m,J2m,Ks2m,Vk2,Vkait,ik2,rk2,uk2",218,No explicit literature reference in SNANA header.,needs_external_verification
+SN2012fr,SN2012fr.snana.dat,,,"B,H,J,Jrc2,V,Y,g,i,r,u",927,No explicit literature reference in SNANA header.,needs_external_verification
+2013aa,SN2013aa.snana.dat,CSP,,ugriBomn,80,CSP public photometry / CSP data releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+2013dy,SN2013dy.snana.dat,KAIT,LOSS,ABCDEFGHIJKLMNOP,523,LOSS/KAIT photometry releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+SN2015F,SN2015F.snana.dat,,,"B,H,Jrc2,V,Y,g,i,r,u",351,No explicit literature reference in SNANA header.,needs_external_verification
+2017cbv,SN2017cbv.snana.dat,CSP,,ugriBomn,360,CSP public photometry / CSP data releases; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+2021pit,SN2021pit.dat,SWIFT,SWIFTNEW,BNUVWX,47,Swift/UVOT photometry / SOUSA-style source; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+2020nvb,SWIFT_20nvb.DAT,SWIFT,,UBV,35,Swift/UVOT photometry / SOUSA-style source; confirm individual object table before using as checked.,header_source_identified_not_row_verified
+2021J,YSE_2021J.DAT,FOUNDATION,,griz,149,Foundation/YSE-style photometry; this may include ZTF/YSE fields and needs source-level verification.,needs_external_verification

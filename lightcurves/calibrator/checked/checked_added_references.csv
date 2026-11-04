@@ -1,0 +1,5 @@
+snid,checked_file,included_bands,reference,status
+SN1990N,SN1990N_Lira1998_UBVRI.snana.dat,UBVRI,"Lira et al. 1998, AJ, 115, 234: Optical Light Curves of the Type Ia Supernovae 1990N and 1991T; arXiv:astro-ph/9709262",added_from_published_table
+SN1991T,SN1991T_Lira1998_UBVRI.snana.dat,UBVRI,"Lira et al. 1998, AJ, 115, 234: Optical Light Curves of the Type Ia Supernovae 1990N and 1991T; arXiv:astro-ph/9709262",added_from_published_table
+SN2021rhu,SN2021rhu_Khetan2023_SwiftOnly.snana.dat,"Swift w2,m2,w1,u,v only","Khetan et al. 2023, MNRAS, SN 2021rhu study; Appendix photometry table; arXiv:2304.10129",added_from_published_table_no_ZTF
+SN2020nlb,SN2020nlb_Williams2024_nonZTF_optical.snana.dat,"u,g,r,i,B,V","Williams et al. 2024, A&A, Observations of type Ia supernova SN 2020nlb up to 600 days after explosion; arXiv:2401.08759",added_from_published_table_no_ZTF
