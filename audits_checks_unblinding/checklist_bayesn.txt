@@ -1,0 +1,4 @@
+BayeSN tests
+Sample selection: outside of hf_excl.txt there is no other 'independent' reason (outside defined parameters and goodness of fit) to remove any SN 
+- removing SN2007on was a tester: no independent reason to not pass it
+

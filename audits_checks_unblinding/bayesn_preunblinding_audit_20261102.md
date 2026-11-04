@@ -48,11 +48,11 @@ recording a command, output path, source hashes, date and reviewer for each.
   its selection statistic with simulations. Do not add population model
   covariance on top of predictions already conditioned on fitted epsilon.
   This is a method change, not a drop-in post-processing cut.
-- [ ] Document scientific baseline exclusions separately from sampler,
+- [x] Document scientific baseline exclusions separately from sampler,
   coverage, GOF and Hubble-residual exclusions. The last audited native run
   included SN2007on because `base_calib_exclusions=None`. Decide its treatment
   from data/model applicability, not its contribution to the SALT2 difference.
-- [ ] Use consistent rules for calibrators and HF unless an independent
+- [x] Use consistent rules for calibrators and HF unless an independent
   observational reason warrants a difference. Do not narrow AV just to
   reproduce SALT2's colour cut or reduce the H0 discrepancy.
 
